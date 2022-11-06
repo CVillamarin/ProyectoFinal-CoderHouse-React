@@ -1,6 +1,7 @@
 # E-commerce Impresiones en 3D
 
-![](https://i.postimg.cc/Qdnnp4MY/header.png)
+![](./src/components/imagen/header.png)
+
 
 Proyecto Final de React.JS
 
@@ -38,8 +39,8 @@ Tienda de E-commerce en donde se podran comprar distintos productos echos en una
   - Eliminar un item espécifico del Carrito.
   - Eliminar todos los items agregados al Carrito.
   - Ver la descripción, precio unitario, cantidades y precio total de los productos agregados al carrito.
-  - Realizar la compra a traves de un formulario, el cual le solicita al usuario, entre otras cosas, ingresar 2 veces el correo electronico. Los correos deben coincidir, caso contrario, no se podra proseguir con la compra.
-  - Finalizada la compra, el usuario obtengra su Núnero de Orden.
+  - Realizar la compra a traves de un formulario
+  - Finalizada la compra, el usuario obtiene su numero de compra
 
 ### Pasos para correr el proyecto en local
 
